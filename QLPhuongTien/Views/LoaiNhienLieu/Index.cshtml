@@ -1,0 +1,85 @@
+﻿@model IEnumerable<QLPhuongTien.Models.LoaiNhienLieu>
+
+@{
+    ViewBag.Title = "Loại nhiên liệu";
+    ViewBag.PageTitle = "Loại nhiên liệu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <div class="col-md-12 text-right">
+            <a href=@Url.Action("Edit") class="btn btn-danger">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+        <div class="table-responsive mt-2">
+            <table class="table">
+                <tr>
+                    <th>STT</th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MA_LOAI_NLIEU)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TEN_LOAI_NLIEU)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DON_GIA)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DVT)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.STT)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NGUOI_NHAP)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NGAY_NHAP)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @{
+                    int i = 0;
+                    foreach (var item in Model)
+                    {
+                        i = i + 1;
+                                <tr>
+                                    <td>@i</td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MA_LOAI_NLIEU)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TEN_LOAI_NLIEU)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DON_GIA)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DVT)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.STT)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NGUOI_NHAP)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NGAY_NHAP)
+                                    </td>
+                                    <td>
+                                        <a href=@Url.Action("Edit",new { @MA_LOAI_NLIEU = item.MA_LOAI_NLIEU}) class="btn btn-link">
+                                            <i class="fas fa-user-edit"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                    }
+                }
+
+
+            </table>
+        </div>
+    </div>
+</div>

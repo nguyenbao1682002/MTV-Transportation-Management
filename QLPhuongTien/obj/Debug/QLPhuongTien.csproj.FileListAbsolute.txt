@@ -1,0 +1,395 @@
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll.config
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.pdb
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe.config
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.rsp
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe.config
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.rsp
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.AppContext.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Collections.Immutable.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Console.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Http.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Sockets.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.ValueTuple.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe.config
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.rsp
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe.config
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\WebGrease.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.pdb
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.AssemblyReference.cache
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CoreCompileInputs.cache
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CopyComplete
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.dll
+D:\Dropbox\Web\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.pdb
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll.config
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.pdb
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe.config
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.rsp
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe.config
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.rsp
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.AppContext.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Console.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Globalization.Calendars.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Http.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Sockets.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.ValueTuple.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe.config
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.rsp
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\WebGrease.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.pdb
+D:\CODE\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.AssemblyReference.cache
+D:\CODE\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CoreCompileInputs.cache
+D:\CODE\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CopyComplete
+D:\CODE\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.dll
+D:\CODE\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.pdb
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll.config
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.pdb
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe.config
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.rsp
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe.config
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.rsp
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.AppContext.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Collections.Immutable.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Console.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Globalization.Calendars.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Http.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Sockets.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.ValueTuple.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe.config
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.rsp
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe.config
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Microsoft.Web.Infrastructure.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\WebGrease.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.pdb
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.AssemblyReference.cache
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CoreCompileInputs.cache
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CopyComplete
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.dll
+D:\My Documents\WEB\QL_PhuongTienVanTai\thuc-tap\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.pdb
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll.config
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.pdb
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe.config
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.rsp
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe.config
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.rsp
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.AppContext.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Console.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Http.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.ValueTuple.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe.config
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.rsp
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\WebGrease.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.pdb
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.AssemblyReference.cache
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CoreCompileInputs.cache
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CopyComplete
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.dll
+C:\Users\bao\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.pdb
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll.config
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\QLPhuongTien.pdb
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.exe.config
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csc.rsp
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.exe.config
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\csi.rsp
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.AppContext.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Console.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Http.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Net.Sockets.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.ValueTuple.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.exe.config
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\vbc.rsp
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\WebGrease.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Helpers.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Mvc.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Optimization.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.Razor.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Newtonsoft.Json.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Antlr3.Runtime.pdb
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.AssemblyReference.cache
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CoreCompileInputs.cache
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.csproj.CopyComplete
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.dll
+C:\Users\paulp\Desktop\QLPhuongTien\QLPhuongTien\obj\Debug\QLPhuongTien.pdb

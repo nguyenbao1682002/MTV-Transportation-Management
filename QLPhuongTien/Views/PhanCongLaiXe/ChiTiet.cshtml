@@ -1,0 +1,148 @@
+﻿@model QLPhuongTien.Models.PhanCongLaiXeModel
+@{
+    ViewBag.Title = "Chi tiết phân công lái xe";
+    ViewBag.PageTitle = "Chi tiết phân công lái xe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+    @Html.ActionLink("Trở lại danh sách", "Index")
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="col-md-12 mt-2">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group row">
+        @Html.LabelFor(model => model.ID, htmlAttributes: new { @class = "col-form-label text-md-right  col-md-2" })
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.ID, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.ID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row">
+        @Html.LabelFor(model => model.TEN_PTIEN, htmlAttributes: new { @class = "col-form-label text-md-right col-md-2" })
+        <div class="col-md-4">
+            @Html.DropDownListFor(model => model.TEN_PTIEN, ViewBag.TenPTList as SelectList, new { @class = "form-control tenpt" })
+            @Html.ValidationMessageFor(model => model.TEN_PTIEN, "", new { @class = "text-danger" })
+        </div>
+        @Html.LabelFor(model => model.BKS, htmlAttributes: new { @class = "col-form-label text-md-right col-md-2" })
+        <div class="col-md-4">
+            @Html.EditorFor(model => model.BKS, new { htmlAttributes = new { @class = "form-control bks" } })
+            @Html.ValidationMessageFor(model => model.BKS, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row">
+        @Html.LabelFor(model => model.MADV, htmlAttributes: new { @class = "col-form-label text-md-right col-md-2" })
+        <div class="col-md-4">
+            @Html.DropDownListFor(model => model.MADV, ViewBag.DonViList as SelectList, new { @class = "form-control madv" })
+            @Html.ValidationMessageFor(model => model.MADV, "", new { @class = "text-danger" })
+        </div>
+        @Html.LabelFor(model => model.HO_TEN, htmlAttributes: new { @class = "col-form-label text-md-right col-md-2" })
+        <div class="col-md-4">
+            @Html.DropDownListFor(model => model.HO_TEN, ViewBag.LaiXeList as SelectList, new { @class = "form-control hoten" })
+            @Html.ValidationMessageFor(model => model.HO_TEN, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row">
+        @Html.LabelFor(model => model.NGAY_HLUC, htmlAttributes: new { @class = "col-form-label text-md-right  col-md-2" })
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.NGAY_HLUC, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+            @Html.ValidationMessageFor(model => model.NGAY_HLUC, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row">
+        @Html.LabelFor(model => model.GHICHU, htmlAttributes: new { @class = "col-form-label text-md-right  col-md-2" })
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.GHICHU, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.GHICHU, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row">
+        @Html.Label("", "File đính kèm", new { @class = "col-form-label text-md-right col-md-2" })
+        <div class="col-md-10">
+            <button type="button" id="btnFileUpload" class="btn btn-danger"><i class="fas fa-plus"></i></button>
+            <div class="table-responsive mt-2">
+                <table id="tblFile" class="table table-hover table-striped btnRemoveFile">
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="offset-md-2 col-md-10">
+            <input type="submit" name="save1" value="Lưu" class="btn btn-primary" />
+            <input type="submit" name="save1" value="Xóa" class="btn btn-danger" onclick="return confirm('Xóa dữ liệu?');" />
+        </div>
+    </div>
+</div>
+    <div id="dvFileUpload" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="modal-title">Thông tin file đính kèm</span>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="col-md-12">
+                        <div class="form-group row">
+                            <label class="col-md-3">File</label>
+                            <div class="col-md-9">
+                                <input type="file" id="fuFile" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-md-3">Mô tả</label>
+                            <div class="col-md-9">
+                                <input type="text" id="inputMoTa" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="btnLuuFile" class="btn btn-primary">Lưu</button>
+                    <button type="button" id="btnCloseModal" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section scripts{
+        <script>
+            $("#btnFileUpload").click(function () {
+                $("#dvFileUpload").modal("show");
+            });
+
+            $("#btnLuuFile").click(function () {
+                var tbody = $("#tblFile").find("tbody");
+                var row = "";
+                row = "<tr>";
+                row += "<td>file</td>";
+                row += "<td>" + $("#fuFile").val() + "</td>";
+                row += "<td>" + $("#inputMoTa").val() + "</td>";
+                row += "<td><button type='button' class='btn btn-link btn-sm btnRemoveFile'><i class='fas fa-times text-danger'></i></button></td>";
+                row += "</tr>";
+                tbody.append(row);
+
+                $("#dvFileUpload").modal("hide");
+            });
+
+            $(document).on("click", ".btnRemoveFile", function () {
+                $(this).closest("tr").remove();
+            });
+            //combobox auto
+            $(".tenpt").change(function () {
+                $(".bks").val($(this).val());
+            });
+            $(".bks").val($(".tenpt").val());
+            //
+            $(".madv").change(function () {
+                $(".hoten").val($(this).val());
+            });
+            $(".hoten").val($(".madv").val());
+        </script>
+}
+}

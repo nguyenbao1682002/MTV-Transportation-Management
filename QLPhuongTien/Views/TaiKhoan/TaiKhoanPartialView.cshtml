@@ -1,0 +1,15 @@
+﻿@model QLPhuongTien.Models.TaiKhoanModel
+
+
+<div class="d-flex">
+    <div class="image">
+        <img src="@Html.DisplayFor(m=>Model.avatar)" height="160" class="img-circle elevation-2" alt="User Image">
+
+    </div>
+    <div class="info">
+        <a href="#" class="d-block">@Html.DisplayFor(m => Model.ho_ten)</a>
+    </div>
+</div>
+<div class="d-block">
+    @Html.ActionLink("Thoát", "DangXuat", "TaiKhoan", new { @class = "btn btn-block btn-link" })
+</div>

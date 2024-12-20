@@ -1,0 +1,81 @@
+﻿@model IEnumerable<QLPhuongTien.Models.DieuChuyenPhuongTien>
+@{
+    ViewBag.Title = "Điều chuyển phương tiện";
+    ViewBag.PageTitle = "Điều chuyển phương tiện";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <div class="col-md-12 text-right">
+            <a href=@Url.Action("Edit") class="btn btn-danger">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+        <div class="table-responsive mt-2">
+            <table class="table">
+                <tr>
+                    <th>STT</th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.BKS)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MADV)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TENDV)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NGAY_HLUC)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.GHI_CHU)
+                    </th>
+                    
+                    <th></th>
+                </tr>
+
+                @{
+                    int i = 0;
+                    foreach (var item in Model)
+                    {
+                        i = i + 1;
+                                <tr>
+                                    <td>@i</td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ID)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.BKS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MADV)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TENDV)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NGAY_HLUC)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GHI_CHU)
+                                    </td>
+                                    
+                                    <td>
+                                        <a id="edit" href=@Url.Action("Edit",new { @MADV = item.MADV}) class="btn btn-link">
+                                            <i class="fas fa-user-edit"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                    }
+                }
+
+
+            </table>
+        </div>
+    </div>
+</div>
+
